@@ -6,6 +6,8 @@ Project 2 is a movie browsing app that allows users to navigate and search throu
 
 Time spent: 47 hours spent in total
 
+GIF URL: https://cdn.loom.com/sessions/thumbnails/94ebdede7c964f8ca08f8de6ad236bb8-with-play.gif
+
 ## Required Features
 
 The following **required** functionality is completed:
